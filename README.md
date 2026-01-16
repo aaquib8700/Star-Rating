@@ -21,7 +21,6 @@ Users can hover over stars to preview the rating and click to set the final rati
 - JavaScript (ES6)
 - Tailwind CSS
 
----
 
 ## 📂 How It Works
 
